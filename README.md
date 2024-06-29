@@ -1,6 +1,6 @@
 **YouTube Series: Mastering Annotations in Java**
 
-https://www.youtube.com/playlist?list=PLzrb6iZd6X9IiJDrgdfjLVOpyPdVqleWn
+[https://www.youtube.com/playlist?list=PLzrb6iZd6X9IiJDrgdfjLVOpyPdVqleWn](https://www.youtube.com/playlist?list=PLzrb6iZd6X9JURPi9gDCZgi0xtRT2NtDz)
 
 **Examples and Assignments Download:**
 
