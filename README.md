@@ -1,4 +1,4 @@
-**YouTube Series: Mastering Exception Handling in Java**
+**YouTube Series: MasteringAnnotations in Java**
 
 https://www.youtube.com/playlist?list=PLzrb6iZd6X9IiJDrgdfjLVOpyPdVqleWn
 
