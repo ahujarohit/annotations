@@ -1,3 +1,15 @@
+**YouTube Series: Mastering Exception Handling in Java**
+
+https://www.youtube.com/playlist?list=PLzrb6iZd6X9IiJDrgdfjLVOpyPdVqleWn
+
+**Examples and Assignments Download:**
+
+https://github.com/ahujarohit/annotations
+
+**Doubts, Queries and Custom Trainings:**
+
+WhatsApp 8109000401
+
 **Welcome to Our Mastering Annotations in Java Series!**
 
 Hello Java enthusiasts! Welcome to our detailed video series on Annotations in Java. Whether you're just starting out or looking to deepen your understanding of Java annotations, this series is designed to guide you from the fundamentals to advanced concepts, ensuring you gain a thorough and practical understanding of this essential aspect of Java programming.
