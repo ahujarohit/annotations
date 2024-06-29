@@ -1,4 +1,4 @@
-**YouTube Series: MasteringAnnotations in Java**
+**YouTube Series: Mastering Annotations in Java**
 
 https://www.youtube.com/playlist?list=PLzrb6iZd6X9IiJDrgdfjLVOpyPdVqleWn
 
