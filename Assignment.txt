@@ -1,0 +1,7 @@
+1. Create an enum by the name Material that contains three constants namely Iron, Steel and Wooden. Create another enum called FurnitureType that can be chair, table or bed. Create a class called Furniture that stores its modelNo, modelName, modelDescription, material and type.  Test all the functions in the Furniture class in main function.
+
+2. Create an annotation called What that stores a string called description. This string should also have a default value. Apply this annotation to all enums, classes and methods created in question 1. Create a separate class that contains main function. This main function should fetch description of all enum, classes and methods and displays it on screen using reflection api. 
+
+3. Create a marker annotation called Special and apply it to some of the methods of class Furniture created in question 1. Create a separate class that contains main function. This main function should print all the special functions of Furniture class. 
+
+4. Create an annotation called Changes that stores 3 strings – change, madeBy, and madeOn. Apply this annotation to all methods created in question 1. Create a separate class that contains main function. This main function should fetch details of changes details in various methods of question 1. 
